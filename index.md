@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -95,5 +94,7 @@
 <div class="footer">
   <h2 id="name">Christina Liles</h2>
 </div>
+
+
 </body>
 </html>
