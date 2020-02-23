@@ -1,4 +1,39 @@
-body {
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playball&display=swap');
+
+body{
+    font-family: 'Karla', sans-serif;  
+    background-color: #EFF1F0
+}
+
+h1 {
     text-align: center;
-    color: blue;
-    }
+    font-size: 45px;
+    color:  #DB6A01
+}
+
+h2 {
+    text-align: center;
+    font-size: 18px;
+}
+
+.info_1 {
+    text-align: center;
+
+}
+
+.head {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.list_1, .list_2, .list_3, .list_4, .list_5 {
+    margin-left: 20%;
+    margin-right: 20%;  
+}
+
+.footer {
+    margin-left: 60%;
+    font-family: 'Playball', sans-serif ;
+    font-size: 40px;
+}
