@@ -16,7 +16,6 @@
 
   <div class="info_1">
       <div class ="email_1">
-      [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
       <a href=mailto:christinaliles@my.unt.edu target="_top">christinaliles@my.unt.edu</a></div>
  <p>214-985-3724 | Denton, TX</p>
 </div>
