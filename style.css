@@ -8,7 +8,7 @@ body{
 
 h1 {
     text-align: center;
-    font-size: 45px;
+    font-size: 55px;
     color:  #DB6A01
 }
 
@@ -39,7 +39,7 @@ h2 {
 .footer {
     margin-left: 60%;
     font-family: 'Playball', sans-serif ;
-    font-size: 40px;
+    font-size: 20px;
 }
 
 .list_3 :hover {
