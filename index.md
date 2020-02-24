@@ -10,8 +10,8 @@
         <div class="stuff">
   <br><br>
 
-  <h1>Christina Liles</h1>
-  <h2><i><font size="2">Technical Communication, Content Development</font></i></h2>
+  <h1><font size="20">Christina Liles</font></h1>
+  <h2><i><font size="8">Technical Communication, Content Development</font></i></h2>
 
   <div class="info_1">
       <div class ="email_1">
