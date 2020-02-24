@@ -11,11 +11,11 @@
   <br><br>
 
   <h1>Christina Liles</h1>
-  <h2><i>Technical Communication, Content Development</i></h2>
+  <h2><i><font size="16">Technical Communication, Content Development</font></i></h2>
 
   <div class="info_1">
       <div class ="email_1">
-      <ahref=mailto:christinaliles@my.unt.edu target="_top">christinaliles@my.unt.edu</a></div>
+      <a href=mailto:christinaliles@my.unt.edu target="_top">christinaliles@my.unt.edu</a></div>
  <p>214-985-3724 | Denton, TX</p>
 </div>
   <hr />
