@@ -11,7 +11,7 @@
   <br><br>
 
   <h1>Christina Liles</h1>
-  <h2><i><font size="16">Technical Communication, Content Development</font></i></h2>
+  <h2><i><font size="2">Technical Communication, Content Development</font></i></h2>
 
   <div class="info_1">
       <div class ="email_1">
