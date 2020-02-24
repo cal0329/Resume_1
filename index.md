@@ -10,7 +10,7 @@
         <div class="stuff">
   <br><br>
 
-  <h1><font size="20">Christina Liles</font></h1>
+  <h1><font size="16">Christina Liles</font></h1>
   <h2><i><font size="8">Technical Communication, Content Development</font></i></h2>
 
   <div class="info_1">
