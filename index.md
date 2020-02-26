@@ -15,11 +15,7 @@
 
   <div class="info_1">
       <div class ="email_1">
-          
-      <a href=mailto:christinaliles@my.unt.edu target="_top">christinaliles@my.unt.edu</a></div>
-      
-
-<a href="mailto:christinaliles@my.unt.edu">christinaliles@my.unt.edu</a>
+          <a href="mailto:christinaliles@my.unt.edu">christinaliles@my.unt.edu</a> </div>
     
  <p>214-985-3724 | Denton, TX</p>
 </div>
