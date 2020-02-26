@@ -19,6 +19,8 @@
       <a href=mailto:christinaliles@my.unt.edu target="_top">christinaliles@my.unt.edu</a></div>
       
 <a href="mailto:partner@test.mail?subject=I want to cook you dinner&cc=cc@test.mail,mutualfriend@test.mail&bcc=secretfriend@test.mail&body=It will be a spicy nam dtok muu salad.">"🐷🌶️🥬🍚</a>
+
+<a href="mailto:christinaliles@my.unt.edu">"christinaliles@my.unt.edu</a>
     
  <p>214-985-3724 | Denton, TX</p>
 </div>
