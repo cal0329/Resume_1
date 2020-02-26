@@ -17,13 +17,8 @@
       <div class ="email_1">
           
       <a href=mailto:christinaliles@my.unt.edu target="_top">christinaliles@my.unt.edu</a></div>
-     
-     mailto('ian@ianstormtaylor.com'
-     
-      mailto "partner@test.mail"
       
-      <a href="mailto:christinaliles@my.unt.edu?subject=Resumedinner&cc=cc@test.mail,mutualfriend@test.mail&bcc=secretfriend@test.mail&body=It will be a spicy nam dtok muu salad.">"🐷🌶️🥬🍚</a>
-
+<a href="mailto:partner@test.mail?subject=I want to cook you dinner&cc=cc@test.mail,mutualfriend@test.mail&bcc=secretfriend@test.mail&body=It will be a spicy nam dtok muu salad.">"🐷🌶️🥬🍚</a>
     
  <p>214-985-3724 | Denton, TX</p>
 </div>
